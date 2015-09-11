@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/jim/git/bearded-dangerzone/convert/data/json'
+let g:netrw_dirhist_2='/home/jim/git'
+let g:netrw_dirhist_3='/mnt/Dropbox/Dropbox/Projects/keywords'
+let g:netrw_dirhist_4='/media'
+let g:netrw_dirhist_5='/home/jim/git/nexus/src/js/single'
+let g:netrw_dirhist_6='/home/jim/git/nexus/src/js/single/evaluation'
+let g:netrw_dirhist_7='/home/jim/git/nexus/app/templates/client'

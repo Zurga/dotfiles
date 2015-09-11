@@ -1,0 +1,15 @@
+set focuscontent
+set hintchars=&[{}(=*)+]!#
+nnoremap j 4j
+nnoremap k 4k
+nnoremap ! t!
+inoremap <C-i> <C-Home><C-S-End>
+
+imap <C-S-h> <C-Left>
+imap <C-S-l> <C-Right>
+imap <C-S-j> <C-Down>
+imap <C-S-k> <C-Up>
+
+nmap h f
+
+hi CmdLine -append font-size: 1.3em; 
